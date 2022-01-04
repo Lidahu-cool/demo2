@@ -1,0 +1,13 @@
+# Project exclude paths
+/demo/target/
+/demo2/target/
+/demo3/target/
+/demo4/target/
+/demo5/target/
+/demo6/target/
+/demo7/target/
+/demo8/target/
+/demo20/target/
+/easyexcel/target/
+/spring_security/target/
+/springboot-redis/target/
